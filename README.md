@@ -3,7 +3,7 @@ Projects for the Generative Adversarial Networks (GAN) specialization
 <br/><br/>
 ### 30.05.2021
 Conditional GAN<br/>
-With conditional class input on MNIST dataset<br/>
+With conditional class vector input on MNIST dataset<br/>
 <br/><br/>
 ### 29.05.2021
 WGAN<br/>
